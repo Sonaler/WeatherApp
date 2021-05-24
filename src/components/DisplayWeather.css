@@ -1,0 +1,8 @@
+td:nth-of-type(2n) {
+	font-weight: bold;
+}
+
+table {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+		sans-serif;
+}
