@@ -25,7 +25,7 @@
 To run this project, install it locally using npm: 
 
 ```
-cd ../zalreact
+cd ../WeatherApp
 npm install
 npm start
 
